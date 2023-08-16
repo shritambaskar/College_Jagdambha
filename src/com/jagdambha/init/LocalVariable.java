@@ -29,6 +29,7 @@ public class LocalVariable {
 	public void getData() {
 		System.out.println(pi);
 		System.out.println("Hello");
+		System.out.println("Hi");
 	}
 
 }
