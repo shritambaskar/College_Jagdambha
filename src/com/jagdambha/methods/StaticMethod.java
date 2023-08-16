@@ -12,6 +12,9 @@ public class StaticMethod {
 		getData();
 		getDetails();
 		
+		NonStaticMethod nsm = new NonStaticMethod();
+		nsm.getClassDetails();
+		
 		
 		// Code for execution Time
 		StaticMethod sm = new StaticMethod();
