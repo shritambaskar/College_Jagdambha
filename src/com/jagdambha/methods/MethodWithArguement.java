@@ -8,6 +8,10 @@ public class MethodWithArguement {
 		getEmployeeId(1060);
 		MethodWithArguement arguement = new MethodWithArguement();
 		arguement.getAllData(23,"Shampoo",1200.99);
+		
+		MethodWithReturnType type = new MethodWithReturnType();
+		String data = type.getProductDetails();
+		System.out.println(data);
 
 	}
 	

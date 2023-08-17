@@ -28,7 +28,7 @@ public class MethodWithReturnType {
 		
 	}
 
-	private String getProductDetails() {
+	public String getProductDetails() {
 		
 		int pId =23;
 		String pName = "Abc";
