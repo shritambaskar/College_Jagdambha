@@ -37,6 +37,8 @@ public class ObjectToObjectCasting {
 		
 		ObjectToObjectCasting object3 = new ObjectToObjectCasting(object2);
 		object3.getValue();
+		
+		new ObjectToObjectCasting(object1).getValue();
 
 	}
 	
