@@ -67,6 +67,7 @@ public class IfControlFlowStructure {
 			System.out.println("Invalid UserName or Password....");
 			inputUserName();
 			inputPassword();
+			validateData();
 		}
 	}
 
