@@ -11,6 +11,11 @@ public class WhileLoopTest {
 			System.out.println(counter);
 			counter++;
 		}
+		
+		do {
+			System.out.println(counter);
+			counter++;
+		} while (counter < 5);
 
 	}
 
