@@ -12,8 +12,8 @@ public class ArrayAverage {
 		System.out.println("enter 5 no.");
 		for(int i=0;i<arr.length;i++)
 		{
-			arr[i]=Integer.parseInt(br.readLine());
-			x=x+arr[i];
+			arr[i] = Integer.parseInt(br.readLine());
+			x = x+arr[i];
 		}
 		for(int i=0;i<arr.length;i++)
 		{
