@@ -1,5 +1,7 @@
 package com.jagdambha.arrays;
 
+import com.jagdambha.inheritance.SingleInheritance;
+
 public class ArrayInit {
 
 	public static void main(String[] args) {
@@ -22,6 +24,7 @@ public class ArrayInit {
 		for (int i = 0; i < code.length; i++) {
 			System.out.println(code[i]);
 		}
+	
 
 
 	}

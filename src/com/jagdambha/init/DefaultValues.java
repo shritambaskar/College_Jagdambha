@@ -9,6 +9,7 @@ public class DefaultValues {
 		DefaultValues df = new DefaultValues();
 		System.out.println(df.city);
 		System.out.println(df.isActive);
+	
 	}
 
 }
